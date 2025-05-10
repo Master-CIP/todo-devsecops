@@ -1,5 +1,5 @@
 # To-Do List – Projet DevSecOps
-
+############################################"
 Ce projet est une micro-application web de type To-Do List, développée dans le cadre d’un projet DevSecOps. L'objectif n’est pas la complexité fonctionnelle de l’application, mais la mise en œuvre complète et sécurisée d’un pipeline CI/CD avec les outils suivants :
 
 ## 🧰 Stack Technique
