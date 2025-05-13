@@ -4,7 +4,7 @@ Ce projet est une micro-application web de type To-Do List, développée dans le
 
 ## 🧰 Stack Technique
 
-- Python 3.12 + Flask
+- Python 3.12 + Flask 
 - Docker
 - GitHub Actions
 - Ansible
